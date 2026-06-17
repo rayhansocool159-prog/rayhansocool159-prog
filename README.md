@@ -1,127 +1,117 @@
-<h1 align="center">Hi, I'm Rayhan Pramudya 👋</h1>
+<h1 align="center">Hi, I'm Rayhan Haryo Pramudya 👋</h1>
 
 <p align="center">
   <strong>Creator • AI Product Builder • Science Storyteller</strong>
 </p>
 
 <p align="center">
-  Building intelligent tools, cinematic content, and practical automation systems.
+  Building practical AI tools, cinematic educational content, and reusable automation systems.
 </p>
 
 ---
 
 ## About Me
 
-I'm **Rayhan Pramudya**, an Indonesian creator and independent AI product builder.
+I'm **Rayhan Haryo Pramudya**, an Indonesian creator and independent AI product builder.
 
-I combine artificial intelligence, software engineering, automation, visual storytelling, and science communication to build tools that solve real production problems.
+I combine artificial intelligence, software engineering, workflow design, automation, visual storytelling, and science communication. I learn by building real projects, validating them honestly, and preserving useful lessons so future work does not restart from zero.
 
-I learn by building real projects—not just by studying theory.
+## Global Project Operating System
 
-## Ray's Project Operating System
+This repository is more than a profile README. It is the public, reusable operating system for future projects, AI agents, coding chats, and authorized collaborators.
 
-This repository is more than a profile README. It is the reusable operating system for future projects, AI agents, coding chats, and collaborators working with me.
+Read these files before substantial planning or implementation:
 
-New projects should read these files before substantial planning or implementation:
+1. [Owner Identity](01_RAY_IDENTITY.md) — durable identity, priorities, public-data boundary, and working principles.
+2. [Working System](02_RAY_WORKING_SYSTEM.md) — source-of-truth rules, project gates, validation, recovery, and cross-project learning.
+3. [Memory and Decisions](03_RAY_MEMORY_AND_DECISIONS.md) — active global decisions and reusable lessons.
+4. [GitHub Ecosystem Index](04_GITHUB_ECOSYSTEM_INDEX.md) — public-safe repository coverage and synchronization rules.
+5. [Templates Library](TEMPLATES/README.md) — reusable project prompts, handoffs, decision records, overrides, and completion reports.
+6. [GitHub Ecosystem Synchronization Template](TEMPLATES/GITHUB_ECOSYSTEM_LEARNING_AND_PROFILE_SYNC_PROMPT.md) — repeatable account-wide audit workflow.
 
-1. [Ray Identity](01_RAY_IDENTITY.md) — owner profile, priorities, communication style, and global principles.
-2. [Ray Working System](02_RAY_WORKING_SYSTEM.md) — source-of-truth rules, project gates, execution workflow, validation, recovery, and cross-project learning.
-3. [Ray Memory and Decisions](03_RAY_MEMORY_AND_DECISIONS.md) — durable preferences, active global decisions, and lessons promoted from completed projects.
-4. [Templates Library](TEMPLATES/README.md) — reusable project bootstrap prompts, handoffs, decision records, owner overrides, and completion reports.
-
-The workflow was adapted from the strongest operating patterns developed during **CLIPPERS PREMIUM**, while keeping product-specific technical decisions inside their own project.
-
-### Start a New Project
-
-Use the [Project Bootstrap Prompt](TEMPLATES/PROJECT_BOOTSTRAP_PROMPT.md) so a new project can understand my established workflow before it begins.
+Repository evidence outranks old conversation memory when they conflict. Project-specific architecture remains inside its own repository unless a verified lesson is intentionally promoted.
 
 ## What I'm Building
 
 ### CLIPPERS PREMIUM
 
-A Windows-based AI video production application designed to automate:
+A local-first Windows AI video-production project focused on practical creator workflows, privacy-aware processing, recovery, and honest validation.
 
-- Offline transcription
-- Intelligent clip selection
-- Subtitle generation
-- Short-form video workflows
-- Batch processing
-- Export and recovery systems
-- Local AI model orchestration
+### ZONALISTIC
 
-Core technologies include:
+A cinematic science-documentary content system exploring film versus scientific reality, space, physics, future technology, educational carousels, visual storytelling, and audience interaction.
 
-`Tauri` `React` `Python` `Local LLMs` `Faster-Whisper`
+### LoreForge
 
-### Zonalistic
+An experimental creative-technology project being developed through structured planning, privacy-aware design, and evidence-based project governance.
 
-A cinematic science-documentary content brand exploring:
-
-- Film versus scientific reality
-- Space and astronomy
-- Physics and future technology
-- Scientific mysteries
-- Educational visual storytelling
-
-### Experimental Projects
+### Additional Experiments
 
 I also explore:
 
-- Autonomous video editing
-- Adobe After Effects automation
-- DaVinci Resolve workflows
-- AI-assisted documentary production
-- Visual asset generators
-- Administrative automation tools
-- Local-first AI applications
+- autonomous video editing;
+- Adobe After Effects automation;
+- DaVinci Resolve workflows;
+- AI-assisted documentary production;
+- visual asset generators;
+- administrative automation tools;
+- local-first AI applications;
+- mobile-product concepts.
 
-## Current Focus
+Experimental, private, planned, and implemented work are kept clearly separated. A repository name, dependency, proposal, or placeholder is never treated as proof of a completed product.
 
-- Building useful local AI products
-- Designing reliable offline workflows
-- Improving software quality and security
-- Automating creative production
-- Turning complex science into engaging stories
-- Creating reusable cross-project memory and workflow systems
+## Evidence-Based Capabilities
+
+### Implemented or directly demonstrated
+
+`Python` `TypeScript` `React` `Tauri` `Rust` `PowerShell`  
+`Git` `GitHub` `Local AI Workflows` `Creative Automation`  
+`Structured Documentation` `Validation Workflows` `Recovery Design`
+
+### Actively developing or documenting
+
+`AI Video Workflows` `Science Communication` `Content Production Systems`  
+`After Effects ExtendScript/JSX` `Agent Orchestration`  
+`Privacy-Aware Local-First Design`
+
+These labels are intentionally calibrated. Planned technology is not presented as completed implementation.
 
 ## Development Philosophy
 
 > Build first. Test honestly. Document everything important. Improve continuously.
 
-I believe AI should not merely produce answers—it should become a practical partner capable of helping people design, build, test, and operate real systems.
+Core principles:
 
-## Follow My Style Guide
+- **Accuracy over appearance.** Never invent technical facts, project status, personal data, or validation results.
+- **Evidence over claims.** Implementation, validation, approval, release, and owner risk acceptance are different states.
+- **Inspect before editing.** Understand the repository, active decisions, scope, and recovery path first.
+- **Build for real use.** Prefer complete, maintainable outcomes over theoretical demonstrations.
+- **Preserve consistency.** Respect existing architecture, naming, schemas, decisions, and project boundaries.
+- **Protect user control.** Prefer local-first, privacy-aware, optional, recoverable, and inspectable systems.
+- **Keep private work private.** Public documentation must not expose credentials, personal records, private source code, internal paths, or confidential project details.
+- **Promote reusable knowledge carefully.** Global principles and clean templates belong here; temporary noise and product-only decisions stay local.
 
-When working with me or contributing to my projects, follow these principles:
+## Public Identity and Privacy Boundary
 
-- **Ask before assuming.** When a missing detail could materially affect the result, ask for clarification instead of inventing an answer or silently choosing a direction.
-- **Be accurate.** Never invent technical facts, test results, or project status.
-- **Build for real use.** Prefer working implementations over theoretical demonstrations.
-- **Keep it practical.** Solutions should be clear, efficient, maintainable, and ready to execute.
-- **Preserve consistency.** Respect existing architecture, naming, formatting, and documented decisions.
-- **Document important decisions.** Record assumptions, risks, limitations, and owner overrides.
-- **Save useful structures to `TEMPLATES`.** Preserve reusable workflows, prompts, documents, configurations, and implementation patterns instead of rebuilding them from scratch.
-- **Test honestly.** A workaround is not a verified pass, and an untested feature must remain clearly labeled.
-- **Protect user control.** Local-first, privacy-aware, recoverable workflows are strongly preferred.
-- **Avoid unnecessary complexity.** Use the simplest reliable solution that meets the actual requirement.
-- **Finish the job.** Do not stop at advice when a complete, usable result can be produced.
+The canonical public owner identity for newly generated or updated documentation is:
+
+**Rayhan Haryo Pramudya**
+
+Repository names, usernames, filenames, decision IDs, and technology names may remain as technical identifiers. Newly synthesized public documentation must not introduce another person's personal identity or copy personal records from source repositories.
+
+## Current Focus
+
+- building useful local AI products;
+- designing reliable offline and recoverable workflows;
+- improving software quality, security, and validation;
+- automating creative production;
+- turning complex science into engaging stories;
+- creating reusable cross-project memory and workflow systems;
+- keeping public documentation accurate, privacy-aware, and evidence-backed.
+
+## Final Principle
 
 > Accuracy over appearance. Evidence over claims. Finished work over vague promises.
-
-## Tools and Technologies
-
-`Python` `React` `Tauri` `JavaScript` `PowerShell`  
-`Git` `GitHub` `Local LLMs` `Whisper` `AI Automation`  
-`After Effects` `DaVinci Resolve` `CapCut` `Canva`
-
-## Featured Projects
-
-- [CLIPPERS PREMIUM](https://github.com/rayhansocool159-prog/CLIPPERS_PREMIUM) — Local-first AI video production and clipping workflow.
-- [LoreForge](https://github.com/rayhansocool159-prog/LoreForge) — Experimental creative technology project.
-
-## Let's Build Something Useful
-
-My repositories document an ongoing journey through AI engineering, creative automation, and product development.
 
 <p align="center">
   <strong>Creating systems where technology, creativity, and curiosity meet.</strong>
