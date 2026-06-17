@@ -17,6 +17,7 @@ Use these templates to bootstrap new projects without rebuilding Ray's operating
 ## Available templates
 
 - `PROJECT_BOOTSTRAP_PROMPT.md` — instructs a new project or AI agent to read Ray's profile repository and initialize correctly.
+- `PROJECT_SYNCHRONIZATION_PROMPT.md` — audits and aligns an existing project with Ray's global operating system without importing unrelated technical assumptions.
 - `CURRENT_STATE_HANDOFF_TEMPLATE.md` — active operational handoff for continuity across chats and agents.
 - `DECISION_RECORD_TEMPLATE.md` — auditable project or global decision record.
 - `OWNER_OVERRIDE_TEMPLATE.md` — records risk acceptance without misrepresenting technical status.
