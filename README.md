@@ -76,6 +76,7 @@ I believe AI should not merely produce answers—it should become a practical pa
 
 When working with me or contributing to my projects, follow these principles:
 
+- **Ask before assuming.** When a missing detail could materially affect the result, ask for clarification instead of inventing an answer or silently choosing a direction.
 - **Be accurate.** Never invent technical facts, test results, or project status.
 - **Build for real use.** Prefer working implementations over theoretical demonstrations.
 - **Keep it practical.** Solutions should be clear, efficient, maintainable, and ready to execute.
