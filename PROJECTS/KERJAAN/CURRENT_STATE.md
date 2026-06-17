@@ -53,25 +53,27 @@ The uploaded official files are not stored in this public repository.
 ## 5. Latest verified baseline
 
 - **Baseline name:** KERJAAN administrative document operating workflow.
-- **Status:** OPERATIONAL WORKFLOW DOCUMENTED; NO DEDICATED PROJECT REPOSITORY.
-- **Profile repository baseline:** `main` at commit `78ea6b2f788537ffc1af13a13f3b4582e169df12` before this synchronization branch.
+- **Status:** OPERATIONAL WORKFLOW DOCUMENTED; REVIEWABLE PR OPEN; NO DEDICATED PROJECT REPOSITORY.
+- **Profile repository base:** `main` at commit `a90322a800b2965e385a67f5ec9e1ae876e7484e` when PR mergeability was verified.
+- **Synchronization branch:** `kerjaan-admin-docs-sync-2026-06-18`.
+- **Pull request:** `#1 — Synchronize KERJAAN administrative document workflow`.
 - **Project artifact baseline:** Session-generated Word/PDF outputs exist in prior chats, but they are not canonical repository artifacts.
-- **Validation summary:** The workflow has repeatedly used source documents, spreadsheets, templates, and rendered-page inspection. A permanent automated validation suite does not exist.
-- **Repository state at review:** The profile repository was readable and writable; only three owned repositories were visible, and no dedicated `KERJAAN` repository was identified.
+- **Validation summary:** Required global files were read, repository availability was inspected, the PR diff was checked against current `main`, all changed files were fetched back, and the PR was verified mergeable.
 
 ## 6. Current active work
 
-- **Active task:** Synchronize KERJAAN with Ray's global operating system.
+- **Active task:** Review and merge the KERJAAN synchronization pull request.
 - **Authorized scope:** Sanitized project contract, current-state handoff, decision record, reusable official-document workflow template, and global memory promotion where clearly reusable.
 - **Excluded scope:** Uploading operational Polri documents, personnel data, identifiers, phone numbers, signatures, stamps, or private files to GitHub.
 - **Assigned chat/agent:** Current Head Project Chat.
-- **Expected deliverable:** Reviewable GitHub branch and synchronization report.
+- **Expected deliverable:** Reviewable GitHub pull request and synchronization report.
 - **Acceptance criteria:**
   - mandatory global files read in order;
   - actual available repositories inspected;
   - project-specific hierarchy preserved;
   - no CLIPPERS-specific technical stack copied;
   - reusable document workflow captured without private data;
+  - concurrent updates on `main` preserved;
   - limitations and unverified areas stated honestly.
 
 ## 7. Verified implemented state
@@ -103,14 +105,19 @@ Do not describe these as implemented:
 | Profile repository identity | GitHub repository metadata inspection | PASS | Repository, default branch, and permissions verified. |
 | Available project repositories | Listed Ray-owned repositories and searched for KERJAAN/administration repository | PASS WITH LIMITATION | No dedicated KERJAAN repository found among visible owned repositories. |
 | Current project workflow | Reviewed active project instructions and conversation task history | PASS | Source hierarchy, document rules, and completion expectations were identifiable. |
+| Concurrent main update | Compared the initial branch base with current `main` and inspected the newer synchronization-template commits | PASS | PR diff against current `main` preserves the newer global template entry. |
+| Branch diff | GitHub compare and PR file patch inspection | PASS | Seven intended Markdown files changed; no unrelated operational files added. |
+| Pull request mergeability | GitHub PR metadata | PASS | PR #1 reported `mergeable: true`. |
 | Private-data protection | Documentation review | PASS | New repository documents contain only sanitized workflow information. |
 | Operational document rendering | Not run during synchronization | NOT RUN | No new Word/PDF task was requested in this synchronization step. |
 
 What this proves:
 
-- the current project now has an auditable sanitized operating contract and handoff;
+- the current project has an auditable sanitized operating contract and handoff;
 - the global profile files were read directly;
-- project-specific document rules were preserved.
+- project-specific document rules were preserved;
+- concurrent global repository changes were not overwritten;
+- the synchronization is reviewable and technically mergeable.
 
 What this does not prove:
 
@@ -140,8 +147,9 @@ What this does not prove:
 
 - **Source protection:** Keep original uploads unchanged unless Ray explicitly requests overwrite.
 - **Output protection:** Save final files separately with clear names.
-- **Repository checkpoint:** Profile repository `main` at `78ea6b2f788537ffc1af13a13f3b4582e169df12` before synchronization.
+- **Repository checkpoint:** Current profile repository `main` base used by PR #1: `a90322a800b2965e385a67f5ec9e1ae876e7484e`.
 - **Synchronization branch:** `kerjaan-admin-docs-sync-2026-06-18`.
+- **Unused recovery branch:** `kerjaan-admin-docs-sync-v2-2026-06-18` was created during conflict checking but is not the active PR branch and must not be treated as authoritative.
 - **Destructive operations requiring approval:** overwriting originals, deleting source files, publishing operational documents, replacing approved templates, or exposing personal/official data.
 
 ## 13. Mandatory workflow policy
@@ -158,11 +166,7 @@ What this does not prove:
 
 ## 14. Next authorized action
 
-Use the synchronized KERJAAN workflow for the next real document request, beginning with the latest uploaded sources and a bounded acceptance checklist.
-
-Why this is next:
-
-The operating system is now documented. Its practical value is confirmed by applying it to the next administrative deliverable without re-onboarding or silent assumptions.
+Ray reviews PR #1 and decides whether to merge it. Until then, the branch is the reviewable synchronization proposal, not the active `main` baseline.
 
 ## 15. Handoff summary
 
