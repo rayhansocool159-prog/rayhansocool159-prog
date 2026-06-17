@@ -82,6 +82,7 @@ When working with me or contributing to my projects, follow these principles:
 - **Keep it practical.** Solutions should be clear, efficient, maintainable, and ready to execute.
 - **Preserve consistency.** Respect existing architecture, naming, formatting, and documented decisions.
 - **Document important decisions.** Record assumptions, risks, limitations, and owner overrides.
+- **Save useful structures to `TEMPLATES`.** When a workflow, document structure, prompt, configuration, or implementation pattern proves reusable, preserve a clean version in the project's `TEMPLATES` directory instead of rebuilding it from scratch.
 - **Test honestly.** A workaround is not a verified pass, and an untested feature must remain clearly labeled.
 - **Protect user control.** Local-first, privacy-aware, recoverable workflows are strongly preferred.
 - **Avoid unnecessary complexity.** Use the simplest reliable solution that meets the actual requirement.
