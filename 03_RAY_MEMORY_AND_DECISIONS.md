@@ -231,7 +231,20 @@ When a decision changes, do not erase the old record. Mark it `SUPERSEDED` and r
 
 ---
 
-## 6. Reusable Lessons Promoted from CLIPPERS PREMIUM
+## RAY-D-008 — Verified-source discipline for formal documents
+
+**Date:** 2026-06-18  
+**Decision:** Formal documents, structured records, and official submissions must use an explicit source hierarchy. Identity data, identifiers, dates, references, signatories, and other authoritative fields must come from verified inputs; missing values must be flagged or represented by visible placeholders rather than invented.  
+**Reason:** Polished formatting cannot compensate for incorrect official data, and silent guessing creates avoidable administrative risk.  
+**Scope:** Administrative documents, reports, forms, spreadsheets, certificates, official correspondence, and document automation across projects.  
+**Replaces:** Guessing missing official values, copying from lower-authority examples, or treating plausible matches as verified facts.  
+**Impact:** Document agents must classify inputs, reconcile records one-to-one, preserve leading zeroes and exact spelling, expose material ambiguity, and report source checks in completion evidence.  
+**Evidence or source:** Repeated KERJAAN document workflows and explicit Ray instructions to use the correct source, preserve formats, and never invent personnel data.  
+**Status:** ACTIVE
+
+---
+
+## 6. Reusable Cross-Project Lessons
 
 ### L-001 — Current-state handoffs preserve continuity
 
@@ -273,6 +286,10 @@ Limitations should be visible, classified, routed, and separated from completed 
 ### L-008 — Clear agent mandates improve complex projects
 
 Separate orchestration, architecture, implementation, quality, UI/UX, research, and provider/security responsibilities when the project is large enough to benefit.
+
+### L-009 — Generated documents require both data and visual validation
+
+A document that saves successfully may still be wrong. Verify authoritative data against designated sources and inspect rendered pages for clipping, table overflow, broken pagination, headers, footers, and signature placement before calling the deliverable ready.
 
 ---
 
