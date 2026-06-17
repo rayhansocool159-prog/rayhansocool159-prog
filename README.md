@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rayhan Pramudya 👋</h1>
 
-<!--
-**rayhansocool159-prog/rayhansocool159-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Creator • AI Product Builder • Science Storyteller</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building intelligent tools, cinematic content, and practical automation systems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm **Rayhan Pramudya**, an Indonesian creator and independent AI product builder.
+
+I combine artificial intelligence, software engineering, automation, visual storytelling, and science communication to build tools that solve real production problems.
+
+I learn by building real projects—not just by studying theory.
+
+## What I'm Building
+
+### CLIPPERS PREMIUM
+
+A Windows-based AI video production application designed to automate:
+
+- Offline transcription
+- Intelligent clip selection
+- Subtitle generation
+- Short-form video workflows
+- Batch processing
+- Export and recovery systems
+- Local AI model orchestration
+
+Core technologies include:
+
+`Tauri` `React` `Python` `Local LLMs` `Faster-Whisper`
+
+### Zonalistic
+
+A cinematic science-documentary content brand exploring:
+
+- Film versus scientific reality
+- Space and astronomy
+- Physics and future technology
+- Scientific mysteries
+- Educational visual storytelling
+
+### Experimental Projects
+
+I also explore:
+
+- Autonomous video editing
+- Adobe After Effects automation
+- DaVinci Resolve workflows
+- AI-assisted documentary production
+- Visual asset generators
+- Administrative automation tools
+- Local-first AI applications
+
+## Current Focus
+
+- Building useful local AI products
+- Designing reliable offline workflows
+- Improving software quality and security
+- Automating creative production
+- Turning complex science into engaging stories
+
+## Development Philosophy
+
+> Build first. Test honestly. Document everything. Improve continuously.
+
+I believe AI should not merely produce answers—it should become a practical partner capable of helping people design, build, test, and operate real systems.
+
+## Tools and Technologies
+
+`Python` `React` `Tauri` `JavaScript` `PowerShell`  
+`Git` `GitHub` `Local LLMs` `Whisper` `AI Automation`  
+`After Effects` `DaVinci Resolve` `CapCut` `Canva`
+
+## Featured Projects
+
+- [CLIPPERS PREMIUM](https://github.com/rayhansocool159-prog/CLIPPERS_PREMIUM) — Local-first AI video production and clipping workflow.
+- [LoreForge](https://github.com/rayhansocool159-prog/LoreForge) — Experimental creative technology project.
+
+## Let's Build Something Useful
+
+My repositories document an ongoing journey through AI engineering, creative automation, and product development.
+
+<p align="center">
+  <strong>Creating systems where technology, creativity, and curiosity meet.</strong>
+</p>
