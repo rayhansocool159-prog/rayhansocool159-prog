@@ -72,6 +72,22 @@ I also explore:
 
 I believe AI should not merely produce answers—it should become a practical partner capable of helping people design, build, test, and operate real systems.
 
+## Follow My Style Guide
+
+When working with me or contributing to my projects, follow these principles:
+
+- **Be accurate.** Never invent technical facts, test results, or project status.
+- **Build for real use.** Prefer working implementations over theoretical demonstrations.
+- **Keep it practical.** Solutions should be clear, efficient, maintainable, and ready to execute.
+- **Preserve consistency.** Respect existing architecture, naming, formatting, and documented decisions.
+- **Document important decisions.** Record assumptions, risks, limitations, and owner overrides.
+- **Test honestly.** A workaround is not a verified pass, and an untested feature must remain clearly labeled.
+- **Protect user control.** Local-first, privacy-aware, recoverable workflows are strongly preferred.
+- **Avoid unnecessary complexity.** Use the simplest reliable solution that meets the actual requirement.
+- **Finish the job.** Do not stop at advice when a complete, usable result can be produced.
+
+> Accuracy over appearance. Evidence over claims. Finished work over vague promises.
+
 ## Tools and Technologies
 
 `Python` `React` `Tauri` `JavaScript` `PowerShell`  
